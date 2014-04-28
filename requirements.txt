@@ -1,0 +1,3 @@
+Please install below components for proper execution of the appp:
+1) http://www.microsoft.com/download/en/details.aspx?id=13255 [64bit version]
+2) if above doesnt work then : http://www.microsoft.com/download/en/confirmation.aspx?id=23734

@@ -1,0 +1,11 @@
+﻿# Settings for Y! Weather scraping app
+#
+# COUNTRYURL = {Full http link to country for which you need to list the temperature {of all states/cities}
+# TEMPTYPE = c or f
+# DBNAME = databse name {access db only for now}
+COUNTRY=India
+COUNTRYURL=http://in.weather.yahoo.com/india/
+RSSURL=http://weather.yahooapis.com/forecastrss
+TEMPTYPE=c
+DBNAME=YWeatherDB.accdb
+TOTALPARAMS=11
