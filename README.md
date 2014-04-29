@@ -1,8 +1,8 @@
 YahooWeatherFetcher
 ===================
-
-Fetch Weather information through Scraping from Yahoo Weather!
-
--Scraping technique implementation
--Fetch weather information of all the states of a country and store them in Access DB.
--Demo
+<br/>
+<b>Fetch Weather information through Scraping from Yahoo Weather!<br/></b>
+<br/>
+-Scraping technique implementation<br/>
+-Fetch weather information of all the states of a country and store them in Access DB.<br/>
+-Demo<br/>
